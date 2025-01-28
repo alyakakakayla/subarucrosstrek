@@ -346,7 +346,7 @@ body > div.container-fluid > div.info-rows > div:nth-child(4) > div {
     }
 
     .row-background-alternate {
-        text-align: right;
+        /*text-align: right;*/
     }
 
     .footer {
